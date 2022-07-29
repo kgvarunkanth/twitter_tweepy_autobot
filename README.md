@@ -17,6 +17,12 @@ git clone https://github.com/kgvarunkanth/twitter_tweepy_autobot.git tweepybot
 cd tweepybot
 ```
 
+Or
+
+Make installation easier with this simple command (Works best in termux) 
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/kgvarunkanth/twitter_tweepy_autobot/main/installer.sh)"
+```
 Edit the values inside the file according to your needs...
 With help of nano tool you can edit whatever you want 
 Run the python script now
